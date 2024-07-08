@@ -1,0 +1,27 @@
+total 216
+-rw-r--r--  1 ramalti  staff     0  3 jui 22:53 Frac_zpk.txt
+-rwxrwxrwx  1 ramalti  staff   781  3 jui  2011 char.m
+-rwxrwxrwx  1 ramalti  staff  1361  3 jui  2011 display.m
+-rwxrwxrwx  1 ramalti  staff  1792  3 jui  2011 eq.m
+-rwxrwxrwx  1 ramalti  staff  2471  3 jui  2011 frac_zpk.asv
+-rwxrwxrwx  1 ramalti  staff  2498  3 jui  2011 frac_zpk.m
+-rwxrwxrwx  1 ramalti  staff  2159  3 jui  2011 get.m
+-rwxrwxrwx  1 ramalti  staff  2289  3 jui  2011 horzcat.m
+-rwxrwxrwx  1 ramalti  staff   891  3 jui  2011 isempty.m
+-rwxrwxrwx  1 ramalti  staff  2589  3 jui  2011 minreal.m
+-rwxrwxrwx  1 ramalti  staff  1123  3 jui  2011 mpower.m
+-rwxrwxrwx  1 ramalti  staff  5007  3 jui  2011 mtimes.m
+-rwxrwxrwx  1 ramalti  staff   379  3 jui  2011 ne.m
+-rwxrwxrwx  1 ramalti  staff   342  3 jui  2011 plot.m
+-rwxrwxrwx  1 ramalti  staff  2964  3 jui  2011 plus.m
+drwxrwxrwx  7 ramalti  staff   238  9 nov  2011 private
+-rwxrwxrwx  1 ramalti  staff  4756  3 jui  2011 residue.m
+-rwxrwxrwx  1 ramalti  staff  3995  3 jui  2011 scalar.m
+-rwxrwxrwx  1 ramalti  staff  1440  3 jui  2011 set.m
+-rwxrwxrwx  1 ramalti  staff  1343  3 jui  2011 size.m
+-rwxrwxrwx  1 ramalti  staff  3335  3 jui  2011 subsasgn.m
+-rwxrwxrwx  1 ramalti  staff  5143  3 jui  2011 subsref.m
+-rwxrwxrwx  1 ramalti  staff   189  3 jui  2011 transpose.m
+-rwxrwxrwx  1 ramalti  staff  2310  3 jui  2011 vertcat.m
+-rwxrwxrwx  1 ramalti  staff  1654  3 jui  2011 zpk2tf.m
+-rwxrwxrwx  1 ramalti  staff   784  3 jui  2011 zpkdata.m

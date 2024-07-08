@@ -1,0 +1,21 @@
+total 152
+-rw-r--r--  1 ramalti  staff     0  3 jui 22:45 Frac_ss.txt
+-rwxrwxrwx  1 ramalti  staff  1901  3 jui  2011 canon.m
+-rwxrwxrwx  1 ramalti  staff  2215  3 jui  2011 display.m
+-rwxrwxrwx  1 ramalti  staff  1207  3 jui  2011 eq.m
+-rwxrwxrwx  1 ramalti  staff  4329  3 jui  2011 frac_ss.m
+-rwxrwxrwx  1 ramalti  staff  1585  3 jui  2011 get.m
+-rwxrwxrwx  1 ramalti  staff  2241  3 jui  2011 horzcat.m
+-rwxrwxrwx  1 ramalti  staff   707  3 jui  2011 isempty.m
+-rwxrwxrwx  1 ramalti  staff   420  3 jui  2011 isnan.m
+-rwxrwxrwx  1 ramalti  staff   374  3 jui  2011 ne.m
+drwxrwxrwx  6 ramalti  staff   204  9 nov  2011 private
+-rwxrwxrwx  1 ramalti  staff  1644  3 jui  2011 set.m
+-rwxrwxrwx  1 ramalti  staff  1294  3 jui  2011 size.m
+-rwxrwxrwx  1 ramalti  staff  2415  3 jui  2011 ss2ss.m
+-rwxrwxrwx  1 ramalti  staff  1604  3 jui  2011 ss2tf.m
+-rwxrwxrwx  1 ramalti  staff   941  3 jui  2011 ssdata.m
+-rwxrwxrwx  1 ramalti  staff  1538  3 jui  2011 subsasgn.m
+-rwxrwxrwx  1 ramalti  staff  1654  3 jui  2011 subsref.m
+-rwxrwxrwx  1 ramalti  staff   139  3 jui  2011 transpose.m
+-rwxrwxrwx  1 ramalti  staff  2239  3 jui  2011 vertcat.m

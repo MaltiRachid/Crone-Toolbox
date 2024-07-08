@@ -1,0 +1,59 @@
+total 568
+-rw-r--r--  1 ramalti  staff     0  3 jui 18:52 Frac_lti.txt
+-rwxrwxrwx  1 ramalti  staff  2788  3 jui  2011 arx.m
+-rwxrwxrwx  1 ramalti  staff  2309  3 jui  2011 bode.m
+-rwxrwxrwx  1 ramalti  staff  1653  3 jui  2011 canon.m
+-rwxrwxrwx  1 ramalti  staff  1146  3 jui  2011 copyband.m
+-rwxrwxrwx  1 ramalti  staff  4378  3 jui  2011 crone_bode.asv
+-rwxrwxrwx  1 ramalti  staff  4351  3 jui  2011 crone_bode.m
+-rwxrwxrwx  1 ramalti  staff  3905  3 jui  2011 crone_nichols.m
+-rwxrwxrwx  1 ramalti  staff  3272  3 jui  2011 crone_nyquist.m
+-rwxrwxrwx  1 ramalti  staff  1183  3 jui  2011 display.m
+-rwxrwxrwx  1 ramalti  staff  4324  3 jui  2011 eval_oe.m
+-rwxrwxrwx  1 ramalti  staff  2591  3 jui  2011 eval_oosrivcf.asv
+-rwxrwxrwx  1 ramalti  staff  2545  3 jui  2011 eval_oosrivcf.m
+-rwxrwxrwx  1 ramalti  staff  3877  3 jui  2011 frac2int.m
+-rwxrwxrwx  1 ramalti  staff  1731  3 jui  2011 frac2intsn.m
+-rwxrwxrwx  1 ramalti  staff  3528  3 jui  2011 frac_lti.asv
+-rwxrwxrwx  1 ramalti  staff  3528  3 jui  2011 frac_lti.m
+-rwxrwxrwx  1 ramalti  staff   386  3 jui  2011 frac_lti_data.m
+-rwxrwxrwx  1 ramalti  staff  2750  3 jui  2011 freqgen.m
+-rwxrwxrwx@ 1 ramalti  staff  1664  6 mar  2012 freqresp.m
+-rwxrwxrwx  1 ramalti  staff  2694  3 jui  2011 get.asv
+-rwxrwxrwx  1 ramalti  staff  2313  3 jui  2011 get.m
+-rwxrwxrwx  1 ramalti  staff  1141  3 jui  2011 gob.m
+-rwxrwxrwx@ 1 ramalti  staff  4232 31 jan 17:34 impulse.m
+-rwxrwxrwx  1 ramalti  staff   620  3 jui  2011 isempty.m
+-rwxrwxrwx  1 ramalti  staff  1832  3 jui  2011 isstable.m
+-rwxrwxrwx  1 ramalti  staff   494  3 jui  2011 ldivide.m
+-rwxrwxrwx  1 ramalti  staff   362  3 jui  2011 length.m
+-rwxrwxrwx  1 ramalti  staff  8465  3 jui  2011 lsim.asv
+-rwxrwxrwx  1 ramalti  staff  9610  3 jui  2011 lsim.m
+-rwxrwxrwx  1 ramalti  staff  2091  3 jui  2011 minus.m
+-rwxrwxrwx  1 ramalti  staff   499  3 jui  2011 mldivide.m
+-rwxrwxrwx  1 ramalti  staff  1900  3 jui  2011 mpower.m
+-rwxrwxrwx  1 ramalti  staff   495  3 jui  2011 mrdivide.m
+-rwxrwxrwx  1 ramalti  staff  2277  3 jui  2011 nichols.m
+-rwxrwxrwx  1 ramalti  staff  2951  3 jui  2011 norm.m
+-rwxrwxrwx  1 ramalti  staff  2314  3 jui  2011 nyquist.m
+-rwxrwxrwx  1 ramalti  staff  7357  3 jui  2011 oe.m
+-rwxrwxrwx  1 ramalti  staff  4550  3 jui  2011 oe_modal.m
+-rwxrwxrwx  1 ramalti  staff  6702  3 jui  2011 oosrivcf.asv
+-rwxrwxrwx  1 ramalti  staff  6747  3 jui  2011 oosrivcf.m
+-rwxrwxrwx  1 ramalti  staff  9356  3 jui  2011 oosrivcf_bis.asv
+-rwxrwxrwx  1 ramalti  staff  9530  3 jui  2011 oosrivcf_bis.m
+drwxrwxrwx  4 ramalti  staff   136  9 nov  2011 private
+-rwxrwxrwx  1 ramalti  staff  1293  3 jui  2011 rdivide.m
+-rwxrwxrwx  1 ramalti  staff  2149  3 jui  2011 set.asv
+-rwxrwxrwx  1 ramalti  staff  2135  3 jui  2011 set.m
+-rwxrwxrwx@ 1 ramalti  staff  7540 19 nov  2012 srivcf.m
+-rwxrwxrwx  1 ramalti  staff  7287  3 jui  2011 srivcf_old.m
+-rwxrwxrwx  1 ramalti  staff  2253  3 jui  2011 stabilize.m
+-rwxrwxrwx  1 ramalti  staff  3545  3 jui  2011 step.m
+-rwxrwxrwx  1 ramalti  staff  1118  3 jui  2011 subsasgn.m
+-rwxrwxrwx  1 ramalti  staff  1151  3 jui  2011 subsref.m
+-rwxrwxrwx@ 1 ramalti  staff  4673 19 nov  2012 svf.m
+
+
+
+
